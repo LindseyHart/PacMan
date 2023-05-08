@@ -5,7 +5,7 @@
 <h3>How to Run</h3>
 <p>To run this project please go to this url:https://lindseyhart.github.io/PacMan/</p>
 <h3>Roadmap of Future Improvements</h3>
-<p>For this project I am still working on getting the image to load after putting the images into a folder on this repository.</p>
+<p>My next step for this prject would be to get different pacman images to appear, not just 1.</p>
 <h3>License Information</h3>
 <p>MIT License
 
